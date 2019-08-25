@@ -62,6 +62,6 @@ for i in range(5):
 t.end_fill()
 t.up()
 
-
+# ok
 t.hideturtle()
 turtle.done()
