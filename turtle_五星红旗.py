@@ -7,7 +7,7 @@ t = turtle.Pen()
 # 确定我们最下边小星星的位置
 t.down()
 t.color('red')
-t.goto(-185,50)
+t.goto(-186,50)
 t.up()
 t.color('yellow', 'yellow')
 # 第一个小星星
@@ -62,6 +62,6 @@ for i in range(5):
 t.end_fill()
 t.up()
 
-# ok提交
+# ok提交信息
 t.hideturtle()
 turtle.done()
